@@ -1,0 +1,13 @@
+#nprogress .bar {
+  height: 2px !important;
+  background: red !important;
+}
+
+.ql-editor {
+  min-height: 280px;
+}
+
+.featured-image {
+  max-height: 500px;
+  object-fit: cover;
+}
